@@ -135,11 +135,15 @@ void punto1() {
 
 int main(){
 //	edades();
-//	edades2();
-//	temperatura();
+	edades2();
+	cout<<"  "<<endl;	
+	
+	temperatura();
+	cout<<"  "<<endl;	
 //	punto();
 //  ab();
 	punto1();
+	cout<<"  "<<endl;	
 	
 	return 0;
 	}
