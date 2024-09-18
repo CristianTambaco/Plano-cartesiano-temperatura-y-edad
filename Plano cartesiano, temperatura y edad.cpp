@@ -10,7 +10,7 @@ if (age <18) {
 }
 else{
 	cout<<"Eres un adulto"<<endl;
-	cout<<"El fin de tu juventud"<<endl;
+
 }
 
 }
@@ -22,7 +22,7 @@ void edades2() {
     cin >> age;
 
     if (age <= 12) {
-        cout << "Eres un niño" << endl;
+        cout << "Eres un niÃ±o" << endl;
     } else if (age <= 17) {
         cout << "Eres joven" << endl;
     } else if (age <= 65) {
@@ -43,7 +43,7 @@ void temperatura() {
     if (temperatura > 20) {
         cout << "Ponte una camiseta" << endl;
     } else if (temperatura > 10) {
-        cout << "Ponte un suéter" << endl;
+        cout << "Ponte un suÃ©ter" << endl;
     } else if (temperatura > 0) {
         cout << "Ponte un impermeable" << endl;
     } else {
